@@ -1,0 +1,40 @@
+
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css');
+
+:root {
+
+    --dark : #000;
+    --secondary : #ececece1;
+}
+
+.top-selling-banner {
+    min-height: 90vh;
+    background: var(--secondary);
+}
+
+.products-page {
+    background: var(--secondary);
+}
+
+footer {
+    margin-top: 5rem;
+}
+
+/* Margins */
+.my-6 {
+    margin-top: 6rem;
+    margin-bottom: 6rem;
+}
+
+.mt-7 {
+    margin-top: 7rem;
+}
+
+.mt-9 {
+    margin-top: 10rem;
+}
+
+/* BG Colors */
+.bg-white {
+    background: #FFF !important;
+}
